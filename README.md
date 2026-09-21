@@ -100,10 +100,12 @@ curl -sSfL [https://raw.githubusercontent.com/trufflesecurity/trufflehog/main/sc
 ## Screenshots
 
 ### 1. Postman BOLA Authorization Bypass
-*(Student: Insert your Postman screenshot here showing the 200 OK response returning the victim's data)*
+<img width="837" height="302" alt="image" src="https://github.com/user-attachments/assets/18500eb0-34fc-406e-9368-0bea2442b6e3" />
+
 
 ### 2. TruffleHog Verified Secret Detection
-*(Student: Insert your terminal screenshot here showing TruffleHog detecting the exposed credentials)*
+<img width="826" height="240" alt="image" src="https://github.com/user-attachments/assets/780fb919-56f0-485e-998a-1e5300a8d248" />
+
 
 ---
 
